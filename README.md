@@ -1,2 +1,2 @@
-# Tran-former-later
+# Trans-former-later
 machine translation based Transformer 
